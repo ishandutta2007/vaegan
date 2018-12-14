@@ -40,3 +40,10 @@ python morphing.py configures/lfw_morph.json
 [2] https://github.com/skaae/vaeblog  
 [3] https://gist.github.com/Newmu/a56d5446416f5ad2bbac  
 [4] https://gist.github.com/kastnerkyle/f3f67424adda343fef40
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
